@@ -21,11 +21,15 @@ staging area dan history akan tersimpan di folder git.
 ## Hands On
 
 Berikut adalah percobaan git sederhana sesuai dengan video ke 5 dari channel Web Pemrograman Unpas:
-![Alt text](Screenshot%201.png)
-![Alt text](Screenshot%202.png)
-![Alt text](Screenshot%203.png)
-![Alt text](Screenshot%204.png)
-![Alt text](Screenshot%205.png)
+
+![Screenshot 1](https://user-images.githubusercontent.com/116989429/217222779-380345b6-c120-449c-a056-baedce436d58.png)
+![Screenshot 2](https://user-images.githubusercontent.com/116989429/217222815-8cd06aa9-f385-4c62-9ede-c3b2a6607b87.png)
+![Screenshot 3](https://user-images.githubusercontent.com/116989429/217222822-cda19024-6ecf-40ef-8803-2c9a06e84643.png)
+![Screenshot 4](https://user-images.githubusercontent.com/116989429/217222842-cb42dfac-7ffb-41b3-bc2c-9fe43e401088.png)
+
+![Screenshot 5](https://user-images.githubusercontent.com/116989429/217222850-bcc2e69b-ef60-4fa7-86ec-03d9b1503d93.png)
+
+
 keterangan:
 1. git init: kita memberi tahu git untuk mengawasi file tertentu
 2. ls: digunakan untuk mengetahui isi yang ada di folder tersebut
